@@ -1,3 +1,4 @@
+//Matthew 5:20 For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.
 const svg = d3.select("body")
               .append("svg");
 
